@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Socket.IO-Client-Swift"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Socket.IO-Client-Swift"
   s.description  = <<-DESC
                    podspec fork of the original socketio/socket.io-client-swift
